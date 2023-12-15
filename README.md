@@ -1,1 +1,1 @@
-# Class
+# Fig
